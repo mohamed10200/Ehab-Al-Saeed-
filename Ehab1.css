@@ -161,8 +161,9 @@ background: url('bf3ea0ae7583eadf398afad9adbdd1b9.jpg') no-repeat;
     margin: 10px;
     }
 
-.info p{
+.info a{
     font-size: 25px;
+    text-decoration: none;
 }
 
 
