@@ -59,8 +59,8 @@ header{
 
  
 .box{
-   background:
-url ('FB_IMG_1678652849271.jpg') no-repeat;
+   background-image:
+url:('bf3ea0ae7583eadf398afad9adbdd1b9.jpg') no-repeat;
    width: 1000px;
    height: 500px;  
    background-size: cover; 
