@@ -52,7 +52,6 @@ header{
 
 
 
-
 .section{
     padding: 100px 100px;
 }
@@ -60,24 +59,13 @@ header{
 
  
 .box{
-   background: url 
-("bf3ea0ae7583eadf398afad9adbdd1b9.jpg")no-repeat;
+   background:
+url ('bf3ea0ae7583eadf398afad9adbdd1b9.jpg') no-repeat;
    width: 1000px;
    height: 500px;  
    background-size: cover; 
  
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 .main h1{
@@ -127,14 +115,6 @@ header{
     height: 100%;
     
 }
-
-
-
-
-
-
-
-
 
 
 
