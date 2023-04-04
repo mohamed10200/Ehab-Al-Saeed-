@@ -261,6 +261,12 @@ header{
 }
 
 
-@media(min-width: 1024px){
-    
+@media (max-width:1023px){
+    .box{
+        padding: 100px 100px;
+    }  
+
+
+
+
 }
