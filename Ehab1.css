@@ -261,9 +261,12 @@ header{
 }
 
 
-@media (max-width:1023px){
-    .box{
+@media (max-width:1024px){
+    .section{ 
         padding: 100px 100px;
+}
+    .box{
+        padding: 100px 200px;
     }  
 
 
