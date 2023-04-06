@@ -152,6 +152,16 @@ header{
     }
 
 
+.content5{
+    display: flex; 
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 300px;
+    
+}    
+
+
+
 .card{
     background-color: #ffffff;
     width: 21.25em;
@@ -206,59 +216,36 @@ header{
 
 
 .footer{
-    background-color: #6e6e6e;
+    background-color: #319b1a;
     color: #fff;
+    padding: 1.25em;
     width: 1000px;
-    height: 150px;
     display: flex;
     justify-content: space-between;
-    
     }
-    
-.footer-blog a{
-    
-    justify-content: space-between;
-    text-decoration: none;
-    padding: 10px;
-    color: white;
-    
-}
-
-.hr{
-    
-    width: 900px;
-       
-    
-}
-
 
 
 .footer-title{
-    font-size: 1.0em;
-    font-weight: 500;
-    color: white;
-    padding-top: 20px;
-    padding-left: 10px;
-   
+    padding-top: 10px;
+    font-size: 1.3em;
+    font-weight: 600;
     }
 
-.social-icons a{
-    color: white;
-    font-size: 1.3em;
-    font-weight: 600;  
-    font-width: -1.0em;  
-    padding-bottom: 40px;
-    float: right;
-   
+.footer-title span{
+    color: #fff;
+    }
+
+.social-icons{
+    space-between: 10px;
+    font-size: 2em;
+    color: #ffffff;
 }
 
-.icons-footer{
-    font-size: 1.8em;
-    font-weight: 20px;
-    background: none;
-    color: none;
-    
+.icon5{
+    color: #fff;
 }
+
+
 
 
 @media (max-width:1024px){
