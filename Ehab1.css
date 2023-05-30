@@ -248,15 +248,25 @@ header{
 
 
 
-@media (max-width:1024px){
-    .section{ 
-        padding: 100px 100px;
-}
-    .box{
-        padding: 100px 200px;
-    }  
+@media(min-width: 1024px){
+
+    section{
+
+          padding: 80px 20px;
+
+  }
+     .box{
+       padding: 100px 20px;
+    }
+    
+    }
+    
+        
+
+ 
+   
 
 
 
 
-}
+
