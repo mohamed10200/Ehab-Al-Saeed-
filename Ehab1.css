@@ -252,11 +252,15 @@ header{
 
     section{
 
-          padding: 80px 20px;
+          padding: 100px 100px;
 
   }
      .box{
-       padding: 100px 20px;
+       background-size: cover;
+    }
+    
+    card1{
+    align-items: center;
     }
     
     }
